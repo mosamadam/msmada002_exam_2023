@@ -102,7 +102,7 @@ for i in range(1, no_account):
         try:
             frac = float(frac_input)
             if frac <= 1/amount or frac >= balance/amount:
-                print("Please entered is out of bound.")
+                print("Value entered is out of bounds.")
             elif len(str(frac).split(".")[1]) > decimal:
                 print(f"Please enter a value to only {decimal} decimal places")
             else:
