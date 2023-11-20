@@ -13,7 +13,7 @@ Follow these steps to set up your Python environment:
 1. **Clone the Repository**
 
     ```
-    https://github.com/mosamadam/msmada002_exam_2023
+    git clone https://github.com/mosamadam/msmada002_exam_2023.git
     cd msmada002_exam_2023
     ```
 2. **Install Algorand SK**
