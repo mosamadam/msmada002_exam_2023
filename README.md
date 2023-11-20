@@ -28,11 +28,15 @@ Follow these steps to set up your Python environment:
     python atomic_transaction.py
     ```
 
+    Follow the rest of the instructions as specified in the exam document.
+
 4. **Execute Question 6 Code**
 
     ```
     python fractional_nft_algorand.py
     ```
+
+    Follow the rest of the instructions as specified in the exam document.
 
 
  
